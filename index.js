@@ -26,5 +26,5 @@ function appendKitten(name) {
 }
 
 function removeLastKitten() {
-  return []
+  return [kittens.slice]
 }
